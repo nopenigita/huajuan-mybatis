@@ -11,5 +11,11 @@
 
     <artifactId>maven_service</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.ithuajuan</groupId>
+            <artifactId>maven_dao</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+import org.junit.Test;
 
 /**
  * @author : Hiccup
@@ -7,4 +7,9 @@ package PACKAGE_NAME;
  * remark :
  **/
 public class ATest {
+
+    @Test
+    public void test1(){
+
+    }
 }
